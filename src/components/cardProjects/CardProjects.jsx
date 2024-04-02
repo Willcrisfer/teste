@@ -1,7 +1,7 @@
 import React from 'react';
 import { useProfile } from '../../context/ProfileContext';
 import './cardProjects.css';
-import imagem from "../../assets/projectsPage/sticks.png";
+
 
 function CardProjects() {
     const { profile } = useProfile();
