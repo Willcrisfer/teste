@@ -2,7 +2,6 @@ import React from "react";
 import "./projects.css";
 import CardProjects from "../../components/cardProjects/CardProjects";
 import { useProfile } from "../../context/ProfileContext";
-import imagem from "../../assets/projectsPage/sticks.png";
 
 
 const Projects = () => {
@@ -16,12 +15,9 @@ const Projects = () => {
                 <h2 className="secondary-title">{profile?.projectsTitle}</h2>
                 <p>{profile?.projectsSubtitle}</p>
             </div>
-    
-           <div>
-            <img src={imagem} className="projects__background" alt="" />
-           </div>
+           <CardProjects />
         </section>
-
+        
     );
   };
 
