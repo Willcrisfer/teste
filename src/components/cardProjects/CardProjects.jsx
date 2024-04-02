@@ -1,10 +1,18 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react'; // Importação única do React
 import { useProfile } from '../../context/ProfileContext';
-import './cardProjects.css';
-import imagem from "../../assets/projectsPage/sticks.png";
 
-function CardProjects() {
+async function CardProjects() {
     const { profile } = useProfile();
+    const [loading, setLoading] = useState(true);
+
+    useEffect(() => {
+        // Quando os dados do perfil forem carregados, definimos loading como false
+        setLoading(false);
+    }, [profile]);
+
+    if (loading) {
+        return <div>Loading...</div>;
+    }
 
     if (!profile?.projects || profile.projects.length === 0) {
         return <div> <p>Nenhum Projeto no Momento.</p></div>;
