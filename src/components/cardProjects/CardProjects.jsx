@@ -1,7 +1,7 @@
 import React from 'react';
 import { useProfile } from '../../context/ProfileContext';
 import './cardProjects.css';
-
+import imagem from "../../assets/projectsPage/sticks.png";
 
 function CardProjects() {
     const { profile } = useProfile();
@@ -28,7 +28,7 @@ function CardProjects() {
                             </a>
                         </div>
                         <div className="image">
-                            <img src={project.img} alt={`Project: ${project.title}`} />
+                            <img src={imagem} alt={`Project: ${project.title}`} />
                         </div>
                     </li>
                 </ul>
