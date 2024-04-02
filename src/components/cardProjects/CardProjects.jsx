@@ -28,7 +28,7 @@ function CardProjects() {
                             </a>
                         </div>
                         <div className="image">
-                            <img src={imagem} alt={`Project: ${project.title}`} />
+                            <img src={project.img} alt={`Project: ${project.title}`} />
                         </div>
                     </li>
                 </ul>
