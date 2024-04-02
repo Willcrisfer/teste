@@ -36,7 +36,7 @@
         },
         {   
             "id" : 3,
-            "img" :"/assets/projectsPage/sticks.png",
+            "img" :"src/assets/projectsPage/sticks.png",
             "title": "Mais Música pra Vocês",
             "description" : "Essa Foto é apenas uma amostra da bateria que tenho em casa, felizmente para meus vizinhso ele é eletrônica (modelo Millenium MPS 750X) Please Use Phones e Aproveite",
             "link" : "https://www.youtube.com/watch?v=uLggmesbxVE&list=PLGEWGeOPaddpCK9aB0bfXVJrET2iUvOF4"
