@@ -1,9 +1,20 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { useProfile } from '../../context/ProfileContext';
 import './cardProjects.css';
 
 function CardProjects() {
     const { profile } = useProfile();
+    const [loadingImages, setLoadingImages] = useState(true);
+
+    useEffect(() => {
+        const loadImages = async () => {
+            // Simulação de um atraso para carregar as imagens
+            await new Promise(resolve => setTimeout(resolve, 1000));
+            setLoadingImages(false);
+        };
+
+        loadImages();
+    }, []);
 
     if (!profile?.projects || profile.projects.length === 0) {
         return <div> <p>Nenhum Projeto no Momento.</p></div>;
@@ -27,7 +38,7 @@ function CardProjects() {
                             </a>
                         </div>
                         <div className="image">
-                            {project.img && <img src={project.img} alt={`Project: ${project.title}`} />}
+                            {!loadingImages && project.img && <img src={require(project.img)} alt={`Project: ${project.title}`} />}
                         </div>
                     </li>
                 </ul>
@@ -35,7 +46,5 @@ function CardProjects() {
         </div>
     );
 }
-
-
 
 export default CardProjects;
