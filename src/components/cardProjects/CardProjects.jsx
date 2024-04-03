@@ -1,14 +1,20 @@
-import React, { useEffect, useState } from 'react'; // Importação única do React
+import React, { useEffect, useState } from 'react';
 import { useProfile } from '../../context/ProfileContext';
+import './cardProjects.css';
 
-async function CardProjects() {
+function CardProjects() {
     const { profile } = useProfile();
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        // Quando os dados do perfil forem carregados, definimos loading como false
-        setLoading(false);
-    }, [profile]);
+        const fetchData = async () => {
+            // Simulação de operação assíncrona
+            await new Promise(resolve => setTimeout(resolve, 1000));
+            setLoading(false);
+        };
+
+        fetchData();
+    }, []);
 
     if (loading) {
         return <div>Loading...</div>;
