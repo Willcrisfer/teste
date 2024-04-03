@@ -5,6 +5,7 @@ import scrollToTop from "../../components/scrollToTop/ScrollToTop";
 import menu from "../../assets/header/menu.svg";
 import logo from "../../assets/header/logo.png";
 import "./header.css";
+import SwitchBurguer from "../../context/MenuBurguer";
 
 const Header = () => {
     const { theme, setTheme } = useTheme();
@@ -15,7 +16,7 @@ const Header = () => {
         <nav className="header">
             <div className="header__content max-width mb-0">
                 <NavLink to="/">
-                    <img src={logo} onClick={scrollToTop} alt="Willian Fernandes" />
+                    <img src={logo} className="header__logo" onClick={scrollToTop} alt="Willian Fernandes" />
                 </NavLink>
 
                 <ul className="header__links">
@@ -26,7 +27,7 @@ const Header = () => {
                         <NavLink to="/About" onClick={scrollToTop} >Sobre</NavLink>
                     </li>
                     <li>
-                        <NavLink to="/Skills"onClick={scrollToTop}>Habilidade</NavLink>
+                        <NavLink to="/Skills"onClick={scrollToTop}>Habilidades</NavLink>
                     </li>
                     <li>
                         <NavLink to="/Projects"onClick={scrollToTop}>Projetos</NavLink>
@@ -34,6 +35,7 @@ const Header = () => {
                     <li>
                         <a href="#footer">Contato</a>
                     </li>
+                    
                 </ul>
 
                 <button
@@ -43,26 +45,8 @@ const Header = () => {
                     {known ? "Light" : "Dark"}
                 </button>
 
-                <div className="header__mobile">
-                    <img src={menu} alt="Menu" className="burguer" />
-                    <ul className="mobile__links">
-                        <li>
-                            <NavLink to="/" onClick={scrollToTop}>Inicio</NavLink>
-                        </li>
-                        <li>
-                            <NavLink to="/About"onClick={scrollToTop}>Sobre</NavLink>
-                        </li>
-                        <li>
-                            <NavLink to="/Skills"onClick={scrollToTop}>Habilidade</NavLink>
-                        </li>
-                        <li>
-                            <NavLink to="/Projects"onClick={scrollToTop}>Projetos</NavLink>
-                        </li>
-                        <li>
-                            <a href="#footer">Contato</a>
-                        </li>
-                    </ul>
-                </div>
+                <SwitchBurguer  />
+                
             </div>
         </nav>
     );
