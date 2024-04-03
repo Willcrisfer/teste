@@ -27,6 +27,7 @@ const Footer = () => {
             
                 <p className="footer__copyright">
                     &copy; 2024 Willian Fernandes, All rights reserved
+                    <p> <a href=" icons8.com.br">Designed by icons8</a></p>
                 </p>
             </div>
         </footer>
