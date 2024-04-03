@@ -1,6 +1,6 @@
 {
     "profile":
-    {"name" : "Willian Fernandes teste de sincronização"
+    {"name" : "Willian Fernandes"
     ,"descriptionFooter" : "Obrigado por permancer até aqui, estou disponivel nos contactos abaixo."
     ,"homeDescription" : "Sou Natural de Belo Horizonte - MG (Brasil) tenho 28 anos e Vivo no Porto a 4 anos."
     ,"aboutTitle" : "Who am I ?"
@@ -22,21 +22,21 @@
     ,"projects" : [
         {   
             "id" : 1,
-            "img" : "https://lh3.googleusercontent.com/pw/AP1GczOW9K4eTlyFQJ1ogd46HLH6dGBaQE4pshwFLRFZgpI5TnIDrhP4zf-AifFDYyDvQTJnZCZEFfq0RC-x5VAzf73VgcRkP8VoD2E1SU-CvxJe-VtMa_3C370XCmjs4OJPfebnqa-Jm4fVv6rcrypEhWXX1kNxsHQ2_ByKQuR3NQ3Eflt5wVdEfzlP7WsT64N-ImV8E5hhJ8cDrowsjv7TlrZSyE3mveOgITzmEgomC099xmBiSjCEcycHGfMRQs9YNWn28GX3C9QIPk-637z5PHjMRf3dhrggLPCSrV-i0Ojf6CG1ZlXm8BAOPtpqRheRuzkGJcvWY4dvmdBIzZtwVmQphS6JKh4e13QkaoZX6wmsJedAuK5xnOJoZ7TarwBVTZHRNb75fwJJefRpUWFgIsQyl6NmfNduzxOLy2TUR00G4QiJ22H6YJDNBoEI3gcshf8z8lQtEJIJGP_RQrkhwhGoz4HgFiw2adeO9GYAhrUgYMC3-WgDDNgX6HunLXDq7Dc5ERsPik-o-14Z4pAlGfqwmlFHY2q54e38r-hllSPmUfBI_qYYP4cPTsvPzUqlKa73wxJW67_3QycnMMgJ784BDUr1p8qpYNiwPUmgL4QDfxVX7QEY37cJORU_9o_kr8y2jP7eX8fs1CdsuSiH0ay0WDTsIuL4oTrwrjKoBn6BIzDzxNSY4HLZ56N_ypdA3cSQ02d4DySDG75zUaaQtJoJU2AgV6Gh1YM9zeLvDBT09QjLRu1gC39krY7UVlpb_g9Jbzgudu41REdLNLWgoGSHGkOHyZaeTU8u8iOq5K3K4blp1eyz6tdtd6IQ_fT7OUmy5g1kcQOpSoOyJ4G45GvD4T55blcHVGa9yWMB5it2X4yL4D73hfEtu8L_22ZMm05yNBxGgC0X4fVWWZEKL5boaWpn=w719-h959-s-no-gm?authuser=0",
+            "img" : "https://lh3.googleusercontent.com/pw/AP1GczOZRRC_h4QTGtlmsRMndaXaFQ636tvw4V8OlBVUlMdIIh6QLASY50vhXaIDdpVbcbdpiANZdR6bIPfieAJA-0ZXRTugRWwag7mKqNOcWfSPo34aHai31lCSpdphvI7j9h0WYcBaYLV3twY2_awfDdpZWo71HwPCAP8HRwtWJJQqn2TuKG_2Fx9Nse8N3L_Z09ziS2SEy_8t5JmDHhrwMGQq_uMgch-pBpRHneXWey1j3j--NAiCHz6E6KNcCY4pAqxFcCsgOmoxkCIshIzU0-I0B755Fq91d3KEQw9aJAb9ty_5NO_wz81XYjFFs59cXuugMH9kTF1gu3OoSG9z4oNiK48utPl12bmz-fABL_Kx7VV9jJwxwTHLU281YKGMDw2K0RaHHHQYPO1f1e380wE2SRPaEMIqq36g0kw1r4fH-zncCP0XTtlsNtPBkwPzZDPS3FkQd5JC4k-iSK4h-4XKeku_P2KzT4RDOfqs53ZvpIbl4Bc8KVdMKeLWXeHNNU_TTSU15EJirEbo4mVIgueiV-0CZdiFxdoQG0CzXVy84gENLd5cPwS2cJ_mNEmtflwyn61ilVOF4ax_FYKhnJQirLl-mCcYvHYMeI_snYRUd3zMA7xOww6Y8cAG7S2Z3IZkB_dpAyFBMbjEoQjMMv3JlMXaemi0eBeqDan5ZQaanhYpQdgRjOqtT5H6NTSPcixoUWfdz0p8l7MGdcQCoqxE-VdVtqTpnsfGmnhGUGLZd72MjT-Kc_UxQVp-GJWQpY8U8xbqGykDrz35G8d-lgjnb-p80w83qJHylcAFnkZUBDlDJg3-VTryT2HO5zF-l9xo_D0HdoRKvcJaDQTO3CqQE-DM-plGvNA3j1FQY0vwZp-yk9YKBcslcSZPM2MaUI2Rug8BwOdYoVswqkIMomccKEq9=w719-h959-s-no-gm?authuser=0",
             "title": "Meu Kit de Bateria para quem não conheçe",
             "description" : "Atualmente estou mais presente nos Ritmos musicais Worship,Pop e Rock --- Nessa Foto eu estava estrenando minha nova SNARE (o tambor com as baquetas em cima) aiiii que coisa Linda.",
             "link" : "https://youtu.be/EaqkoxkrCh4?si=QuOPfzowepD5hhYU"
         },
         {
             "id" : 2,
-            "img" :"../src/assets/projectsPage/git.png",
+            "img" :"https://lh3.googleusercontent.com/pw/AP1GczNEw2DSwZITy9sJ5N8dBW5Ub3Vv5ZIXjNOCns0nFmA6xHFl8z5QYpm_fwowVKjqkPafI8YBGPvUAtdMpe68mfqjWuaUxK9jXFpoxEWYM4mg70Uzvzh6jvKsgfWIAXvFR05feGoFfvvBgLb7_WCFoHbe4_66WiMk6n5UGTqJVp34YldGbfBl4TflRp3nxonkCIBra0l0ENZTeoUFwMq_a0So9cfzkINJR1LvXidjJnYjdmr3UlzOrlGsNcVMOoclm8CRc_fR7hjR0Sx3wcocj1AI8CyH3WuEYDpGCJ3n3ktvJmtPxXfChl8Z43WDVUK65gsOuX3ehaDSVVX8dVmceUOGRbukh_U5kZMWDKrGBaZMhwTZjRF2Vjg2XdU70l7M6kFNbEH7IdTJ6nWl-Ov36VaajdiSzcKHbgrmE3pg8nG_8Po66JHj_u1tCXwdV_IbhPk9F6rFwQNyafb2XOK4TO2XevtsqtL92Av6-eE1Fp2jv7TZfrOswQ5Cp8ErJVfzfJ9yRi8k_u7Koxf6TF9eyBiReCG5i7BP7rTjsMZvmjfOlbjKuk7oOYlyVPZv-9RwwjmzQAcEjqME4NSvKhTtV_FbNdt_hSowYN1TWbfU-v5r27EthCASoAmH6R6YM6ApBnIjYlO0dayySf81o1LuHAQCfNPJlrdHDeMaf9pp7K7s3bighzGKRMjj3tohOnsRrE4Gsnv6PCuTvhfAklL-HnwpIjvgUv7hCwYU4UQhjW5sh5lbMTG5iTHkIQspL6lFl-5dIysWAByTWfL4DCYkblWeuQrS24a2Nin49i0wb6SAAdgneNej_jRWaf13tw5l8-1Tj5pMSdwoTcNT9klZB8ku6ONu6hhGGvoCLgrdvnUXxT2kOMskP_8j2Q8wdH6FKky6-re3ohHi1ag631ipeCz6CBJZ=w684-h905-s-no-gm?authuser=0",
             "title": "O meu Primeiro Projeto em HTML e CSS",
             "description" : "Confesso que ainda não esta finalizado e hoje eu percebo muito mais sobre o que estou fazendo, mas tenho orgulho desse trabalho.",
             "link" : "https://github.com/Willcrisfer/HTML-CSS.git"
         },
         {   
             "id" : 3,
-            "img" :"../src/assets/projectsPage/sticks.png",
+            "img" :"https://lh3.googleusercontent.com/pw/AP1GczOAQ_fV9sZHBfDd8YOChQ06_MvUIbt0VHlhsqcmLxbrEWE1BFCwGZ9v5PpCuIYqesDx8SouLp2dg2GTNsESfYjyGcFlXzcE7DQk5z02eJvcnYZZgOtLVkNnBZ_cw169F-daO6VnYemJdrJhfVukAWkrYM79DPWeihh1Xqynrrzmd998ttAjXOKkNAOLPRLxa1b4LPzqYEsJpJvkXSIaja-Ffzqzois_ubtu5IfLqo353dQqUWEsaJwJyMamOAMEI4t7Z9maCSUwysuyZaG7VXnSft5s8u6T4oTrbFUN6Cs7nQUtSchdHsIYOWBcbnayWdXSO_YTfbbhT1pFd9W2svxtEfAUvv7E6z6rid54PddKKtWg0c65lB_eacpjG3tEdOjYdJt0STD-AOPphdwpHZ14thsRNUsVIyYFbQs_ugwoUXYeuHSroYe0C8A40X8P_Rt_FRYOT_oZ7ZnXr67CZPunbO5sTW0nGeAQfPI77jVj95wDRRTIuUZ13blIRFcqVfeNXkiTUOdtTrSKdnCEo0QcK5eFrhqL-NghKxrm9afv37xkn8tFkjarHWb1LpF6WKmuhoks26hdLe1VcpyYN3zf_YLiEsD3VSPF7qGPHnpnZxGzZOevxIEnTLqZVwDBv2z5EzfUneHJ79XoRepTG8eDyX6tKsoWqe2WwTTdtN66ztB8a_X55EAP3dtB5eJvyb6FSmRCGx2lnV6gqGgrMI_xUah8zRHopY7FLY7nh-KCZVsw1EHqOuZhzO3I34WHsX6nBliHjDqCMmurfdXcS9wXJfgyQNC8u3nKot94-uFVXHK-Xq9KgXWMFEOH00XNxLmGeI-nSmFdIYvdOT9PnljfWy-DJMhXyfgzGbljK7bwwrvEKuBA-2fGweBajUgQUFvnY-IC3fep-pmnWpkQMh5MRNP-=w539-h959-s-no-gm?authuser=0",
             "title": "Mais Música pra Vocês",
             "description" : "Essa Foto é apenas uma amostra da bateria que tenho em casa, felizmente para meus vizinhso ele é eletrônica (modelo Millenium MPS 750X) Please Use Phones e Aproveite",
             "link" : "https://www.youtube.com/watch?v=uLggmesbxVE&list=PLGEWGeOPaddpCK9aB0bfXVJrET2iUvOF4"
@@ -47,19 +47,19 @@
         {   
             
             "id" : 1,
-            "img": "../src/assets/skillsPage/macbook.png",
+            "img": "https://lh3.googleusercontent.com/pw/AP1GczPy-Sha8Mcgn8xqOsxFBlEgYw1uNn0oJy_-NDiZWxOCUPbXDzSBl2mUgzkT2duP_QIIO0o0f4ML8ZlYVvraKFcG8SdGRRJ-uomGS-azi9fpL3-6cUgLK8VgDE5zokUgoeTz31kXbKP5afib47Qlz6S-xrqX7zpAv0xVf3pMwhNm3VhaV1vuCb1ZG3MHqU5qv8oB2R3nT6PgYzAnWo0rFJxYMM2qvnOtNf-uwAmmbwV7El9oIiyZIyNKnkojTfChdp2VNoySuUCowwOMCNMGbgPCr8G43F7v1tIrH1dT86V8Sk-r17CVk5WlaiOkci-_-OC4n7NIr82eWo5GSdKH8ESSze00S_MC9lqiztRFb_VkuTdz5pVWjvbZ3AFe8N85njvRqybHm2qtOEBoBz01WEze7Xk2ptL9KuyVd4wokA740jTTycLGzWvbtk-hP-h_m680ujNAI8fn2GyBA14q-adA5eRbloJBLs-87sHpCLUNJqbHbW4scchoWY5DVzhb5u_kpKRQdKr-gxovG2Uz2YnhGW0xx79ntHSlKxbD-Z2NOQa2LBH7klL7Hsq_PeoOAdgE6u5ZLEl3pCti5EsOeSRzr3Vx-RE_mgmRb32J-iUADZhPwGpSQSYDavzquj6Hjot4_dmRbn8yY_1XfZjEuX6jzXKDgD80RU0h0_eWzcE5t5p1XR9-8NvxVaGNlgY8aTxpPM4Fz_mOVTb2PQWsm7tyfs17uusiD8xVUooWovVCPoUlpB2Zg9tjtptO5ppTMUWZrUlIe88ZmJ1V_JnLn4mhOMjgnxmQm6rYJwIZ3tSUn2XXii6sLI9iqM4cLw6WYSeEjajGsSuA338QAngNt9tOKVxuxM7PwfCaHbF_yqUfhou3H3mZz4XUSSfuWA_wKxWYUEXNhbUAS8Uxps4k9OK4r8sP=w50-h50-s-no-gm?authuser=0",
             "title" : "Tecnology Expert",
             "description" : "Seu PC esta Lento? Deixa comigo... Seu PC não funciona? Deixa comigo... Sua empresa precisa de um Bom profissional em gestão de servidores e Redes? Deixa comigo... Quer me contratar como Desenvolvedor Junior? TO DENTRO."        },
         {
             
             "id" : 2,
-            "img": "../src/assets/skillsPage/drums.png",
+            "img": "https://lh3.googleusercontent.com/pw/AP1GczMq6jOsMiLIIQEH2tebhDANURB7rtK84MYYTwhWs-lLom_l7piXq5W4AlRaLBTWjrUqi0osOMtN3wmNaQ1IAlsdr47Hms-8YKpEqce6O4QaNML64-emLfjJQom327tJodA6fCQ79TlgQHHw8ANwr65kO01ejauBEgVE7rNjM3nZ672pvl-4FDtiTUzx5ckm6Qtm_qEBj31w7kdyY2C3IoBYCvJttHZbP-GP-evXz0P01DKKTZ0HuGNA3DPL7eMTg_mL54zQjt8g_KHAz1MUmGJXEBEKhulMrD5PA_Pc1YY9l-uEL12TtH4gmyHmkuZDbHSHw2Hq75RYacTmiYXhoRJvSXHgsb4GDR05CZnD2bzTQe9vLrl4BoMY4IFrgc4OnRshNdhNcaAPA0T92vp_lM-F5NqcWKRkapPNl4CgOXFFzBH1n1_rn2gqSVDhsnxPBhyAKlOQR_EVfQQCFm6GDCDe7z8hytO6FSmYfn-RcuiAg2Fc4kkcM9SOvYGzOqWyZ8qpIZ9Rso13tLgpdxIKYbGy-YGwnMS86qAyjL2r3-5x29oPQuB8U6yV9OEmOURw7srTd7mqzkDQ_lkLQ1Qw7yebz0-zESBb19KHOzXxsMzAnYU29_Fe9r59b8FXPKQV7LuV1o61uIkaXCM0lLlHl1HwBno2jxktIMIZUQ8XyFf88Oq9T6aXf9wLzMY0MwSCF3Dx-ER3yz7SSkrBUDZiT9d_SLPfHAi09t9Ir84pF4HQtG4xX52GHUJk16ewA8hNBGlTgqR_SZ-qCQDoX2dTWQT9k4R1yFMxVhRKbPAFz2_MHyAtLKE0TczOdSGq1Y-fYGf9_zNNmrIde9Lzg02cTRHiPXI4pHNUWyabhdgenp9M4O4CH_f3yAYB5IhQxgFvyh19g5royZRr47XprdI9sXBYfh4W=w50-h50-s-no-gm?authuser=0",
             "title" : "Like a Drumer",
             "description" : "Eu realmente AMO tocar bateria, tenho uma em casa e sinto que não a uso o quanto deveria... Toco sempre que posso e amo isso... Ainda tenho o sonho de fazer algo grande como baterista, particpar de uma boa Banda Musical, gravar musicas de sucesso... Sera que sou o unico Baterista com esse Sonho?" 
         },
         {   
             "id" : 3,
-            "img": "../src/assets/skillsPage/microfone.png",
+            "img": "https://lh3.googleusercontent.com/pw/AP1GczPxQcNDHSNFLsep-BHoy5KQWDVUBwOI39H7rlZQrL7s4pTlPszYXFBypZrL2UrHrsPxEXgpxEL-i4wBrRUdHZRYt-I-BQa-T4VCx-sQWKAED_Cxozrd_4C2vcSMFQudVx-9YoFdkKfaSevwmIacAI5ZZ-toKa3MBFvyTiMCgc8Ub4Fgm5vG-BtfLz4F5MIwYunQQQr7Q8Ojx9Vp2mvYm1nEvK5dmKP_eYU3_vd8QE5z6PZUlWoOrHZMjAglC90mqaycuarNHNqwTlgjCx4YWrDC3aYlusIuf0keLhhmMJwsBHmrXazHVEkf6PmZJxTrOj0lgYjsJ7CKW2zeCDA9amj-g4H8Ze_IkynWwOdKNUHSJW7P9u3L-T5Tiy3AA8z3cf9Do80KMAaeUQqfgf2fQoB4_JGf0PnaSRm8_0Q9IvmQ2h32TnaVo5guFnU5CuInpLgsxIaMFs_ZOh2QLNnu-dQNUis0dd9TMbBPnBbYvmfoVHfp8DH3vRj4ikg6iakSbUgSxdHD_YQ6cm1AFytXfsgPlnKI-kFIXRpp-dddfOyyCgzmkTYG8c6XWxhD9Ahh-i43lT00xd0dQ8ZUG5aRLkmiEFoFdGFJ_Qqpux4WEgcoTQk4xKw9wp2HoyRQCLS7iPT2sYOCwtW-BKajRIf70LF-mJaubQ4_qSWscPiDm8oE_NFuQJ9QrQBiFl6wG8j9fOzoHDAGDI6PTCeZ99B-rPXuceP9ljHikZYIgd_81v-q6RkDxSYLaXUhw0fkwfC1tx5Hoaaj84Lw0gT2EdNqjxOnHmATZQCka52JTi__OrGEBFIR_GmDmkswsCMTT_Iw4UKCJW51J1Zf24eJyZiM28NzpKC8PF5zhn2q-02HFYHESOU0lMb64WwY30YjNwTZhQCE9qW8hSFbh5lFEZ3ll4FfbAN1=w50-h50-s-no-gm?authuser=0",
             "title" : "Like a Singer",
             "description" : "Olhem Bem, não sou nenhum Bill Whiters, mas me viro Bem, sinto que posso ser melhor e tenho planos para estudar  para conseguir a melhor identidade Vocal e enfeitiçar as pessoas com minha ela haha. Atualmente canto pelo menos 1 vez por mes e dizem que continuo Bem... #vaiestudarwillian" 
         },
