@@ -38,7 +38,7 @@ function CardProjects() {
                             </a>
                         </div>
                         <div className="image">
-                            {!loadingImages && project.img && <img src={require(project.img)} alt={`Project: ${project.title}`} />}
+                            {!loadingImages && project.img && <img src={project.img} alt={`Project: ${project.title}`} />}
                         </div>
                     </li>
                 </ul>
