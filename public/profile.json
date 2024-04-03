@@ -39,7 +39,7 @@
             "img" : "https://github.com/Willcrisfer/teste/blob/main/src/assets/projectsPage/sticks.png?raw=true",
             "title": "Mais Música pra Vocês",
             "description" : "Essa Foto é apenas uma amostra da bateria que tenho em casa, felizmente para meus vizinhso ele é eletrônica (modelo Millenium MPS 750X) Please Use Phones e Aproveite",
-            "link" : "ht://www.youtube.com/watch?v=uLggmessbxVE&list=PLGEWGeOPaddpCK9aB0bfXVJrET2iUvOF4"
+            "link" : "https://www.youtube.com/watch?v=uLggmessbxVE&list=PLGEWGeOPaddpCK9aB0bfXVJrET2iUvOF4"
         }
 
     ]
@@ -49,7 +49,7 @@
             "id" : 1,
             "img" : "https://raw.githubusercontent.com/Willcrisfer/teste/main/src/assets/skillsPage/macbook.png",
             "title" : "Tecnology Expert",
-            "description" : "Seu PC esta Lento? Deixa comigo... Seu PC não funciona? Deixa comigo... Sua empresa precisa de um Bom profissional em gestão de servidores e Redes? Deixa comigo... Quer me contratar como Desenvolvedor Junior? TO DENTRO."        },
+            "description" : "Seu PC Lento? Deixa comigo... Seu PC não funciona? Deixa comigo... Sua empresa precisa de um Bom profissional em gestão de servidores e Redes? Deixa comigo... Quer me contratar como Desenvolvedor Junior? TO DENTRO."        },
         {
             
             "id" : 2,
