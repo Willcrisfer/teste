@@ -1,5 +1,4 @@
 import React from "react";
-import "./projects.css";
 import CardProjects from "../../components/cardProjects/CardProjects";
 import { useProfile } from "../../context/ProfileContext";
 

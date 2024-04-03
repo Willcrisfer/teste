@@ -1,24 +1,9 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { useProfile } from '../../context/ProfileContext';
 import './cardProjects.css';
 
 function CardProjects() {
     const { profile } = useProfile();
-    const [loading, setLoading] = useState(true);
-
-    useEffect(() => {
-        const fetchData = async () => {
-            // Simulação de operação assíncrona
-            await new Promise(resolve => setTimeout(resolve, 1000));
-            setLoading(false);
-        };
-
-        fetchData();
-    }, []);
-
-    if (loading) {
-        return <div>Loading...</div>;
-    }
 
     if (!profile?.projects || profile.projects.length === 0) {
         return <div> <p>Nenhum Projeto no Momento.</p></div>;
@@ -33,7 +18,7 @@ function CardProjects() {
                             <h3 className="tertiary-title">{project.title}</h3>
                             <p>{project.description}</p>
                             <a
-                                href={project.link}
+                                href={(project.link) ? project.link : '#'}
                                 target='_blank'
                                 rel='noopener noreferrer'
                                 aria-label={`See More about ${project.title}`}
@@ -42,7 +27,7 @@ function CardProjects() {
                             </a>
                         </div>
                         <div className="image">
-                            <img src={project.img} alt={`Project: ${project.title}`} />
+                            {project.img && <img src={project.img} alt={`Project: ${project.title}`} />}
                         </div>
                     </li>
                 </ul>
@@ -50,5 +35,7 @@ function CardProjects() {
         </div>
     );
 }
+
+
 
 export default CardProjects;
