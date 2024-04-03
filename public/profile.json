@@ -29,14 +29,14 @@
         },
         {
             "id" : 2,
-            "img" : "https://i.pinimg.com/736x/7e/fb/b5/7efbb56da9bc73922c0401154d45c54c.jpg",
+            "img" : "https://github.com/Willcrisfer/teste/blob/main/src/assets/projectsPage/git.png?raw=true",
             "title": "O meu Primeiro Projeto em HTML e CSS",
             "description" : "Confesso que ainda não esta finalizado e hoje eu percebo muito mais sobre o que estou fazendo, mas tenho orgulho desse trabalho.",
             "link" : "https://github.com/Willcrisfer/HTML-CSS.git"
         },
         {   
             "id" : 3,
-            "img" : "https://i.pinimg.com/736x/f1/7a/53/f17a53772f521f2409e7c5a7099c45bd.jpg",
+            "img" : "https://github.com/Willcrisfer/teste/blob/main/src/assets/projectsPage/sticks.png?raw=true",
             "title": "Mais Música pra Vocês",
             "description" : "Essa Foto é apenas uma amostra da bateria que tenho em casa, felizmente para meus vizinhso ele é eletrônica (modelo Millenium MPS 750X) Please Use Phones e Aproveite",
             "link" : "https://www.youtube.com/watch?v=uLggmesbxVE&list=PLGEWGeOPaddpCK9aB0bfXVJrET2iUvOF4"
