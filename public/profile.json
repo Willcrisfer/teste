@@ -25,21 +25,21 @@
             "img" : "https://github.com/Willcrisfer/teste/blob/main/src/assets/projectsPage/drums.png?raw=true",
             "title": "Meu Kit de Bateria para quem não conheçe",
             "description" : "Atualmente estou mais presente nos Ritmos musicais Worship,Pop e Rock --- Nessa Foto eu estava estrenando minha nova SNARE (o tambor com as baquetas em cima) aiiii que coisa Linda.",
-            "link" : "https://youtu.be/EaqkoxkrCh4?si=QuOPfzowepD5hhYU"
+            "link" : "https://youtu.be/EaqkoxkrCsh4?si=QuOPfzowepD5hhYU"
         },
         {
             "id" : 2,
             "img" : "https://github.com/Willcrisfer/teste/blob/main/src/assets/projectsPage/git.png?raw=true",
             "title": "O meu Primeiro Projeto em HTML e CSS",
             "description" : "Confesso que ainda não esta finalizado e hoje eu percebo muito mais sobre o que estou fazendo, mas tenho orgulho desse trabalho.",
-            "link" : "https://github.com/Willcrisfer/HTML-CSS.git"
+            "link" : "https://github.com/Willcrissfer/HTML-CSS.git"
         },
         {   
             "id" : 3,
             "img" : "https://github.com/Willcrisfer/teste/blob/main/src/assets/projectsPage/sticks.png?raw=true",
             "title": "Mais Música pra Vocês",
             "description" : "Essa Foto é apenas uma amostra da bateria que tenho em casa, felizmente para meus vizinhso ele é eletrônica (modelo Millenium MPS 750X) Please Use Phones e Aproveite",
-            "link" : "https://www.youtube.com/watch?v=uLggmesbxVE&list=PLGEWGeOPaddpCK9aB0bfXVJrET2iUvOF4"
+            "link" : "ht://www.youtube.com/watch?v=uLggmessbxVE&list=PLGEWGeOPaddpCK9aB0bfXVJrET2iUvOF4"
         }
 
     ]
