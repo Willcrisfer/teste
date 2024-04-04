@@ -17,6 +17,7 @@
     height: 250%;
     object-fit: cover; /* Garanta que a imagem cubra todo o espaço da seção */
     z-index: -1;
+    opacity: 0.2;
 }
 .projects__background2 {
     position: absolute; /* Defina a posição absoluta para que a imagem de fundo cubra toda a seção */
@@ -27,7 +28,7 @@
     object-fit: cover; /* Garanta que a imagem cubra todo o espaço da seção */
     z-index: -1;
     display: none;
-    opacity: 0.2;
+    opacity: 0.5;
 }
 
 
