@@ -44,8 +44,7 @@ const Header = () => {
                 >
                     {known ? "Light" : "Dark"}
                 </button>
-
-                <SwitchBurguer  />
+                <SwitchBurguer/>
                 
             </div>
         </nav>
