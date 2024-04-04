@@ -1,6 +1,7 @@
 import React from "react";
 import CardProjects from "../../components/cardProjects/CardProjects";
 import { useProfile } from "../../context/ProfileContext";
+import background from "../../assets/homePage/profile.png";
 
 
 const Projects = () => {
@@ -13,6 +14,7 @@ const Projects = () => {
 
     return (
         <section id="projects" className="projects max-width">
+            <img src={background} className="projects__background" alt=""/>
             
             <div className="projects__content">
                 <h2 className="secondary-title">{profile?.projectsTitle || "Projetos"}</h2>
