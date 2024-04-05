@@ -110,6 +110,22 @@ p:not(:last-of-type),
   
 }
 
+.social-btn:hover{
+  color: var(--social-color);
+}
+
+.linkedin {
+  color : #0e76a8 ; 
+
+}
+.github {
+  color : #cec6c6 ; 
+
+}
+.youtube {
+  color : #ff000098 ; 
+}
+
 .max-width {
   width: 100%;
   max-width: 120rem;

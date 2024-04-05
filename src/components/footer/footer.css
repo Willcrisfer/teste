@@ -23,17 +23,16 @@ footer .footer__content .social-btn{
     padding: 1rem;
     font-size: 2rem;
 }
-footer .footer__content .social-btn:hover{
-    color: var(--social-color);
-    
-}
+
+
+
 
 footer .footer__content .footer__copyright {
    font-size: 1.6rem;
    padding-bottom: 1.6rem;
-   
 }
 
 .tertiary-title .mb-s {
     color: var(--tertiary-color);
 }
+

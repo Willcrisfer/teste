@@ -19,11 +19,12 @@ const Footer = () => {
                 {socialNetworks.map((network) => (
                     <a 
                         href={network.link} 
-                        className="social-btn" 
+                        className={network.name + " social-btn"} 
                         target='_blank' 
                         rel='noopener noreferrer' 
                     >
                         {network.icon} 
+                        
                     </a>
                 ))} 
             
